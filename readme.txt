@@ -14,3 +14,5 @@ following has been done
 'add cash to wallet form' is added
 'search form' is modified and debugged
 'main nav panel' is modified and more entries are added
+'users image' is added
+'users name' is modified and changed to 'chetan'
